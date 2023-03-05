@@ -16,6 +16,9 @@ cd /your/project/path
 
 # Download Visual Studio Code Editor or IDE of choice
    https://code.visualstudio.com/download
+   
+# Clone Repository
+   You can use HTTPS or SSH
 
 # Launch cypress
     ./node_modules/.bin/cypress open  OR
